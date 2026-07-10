@@ -28,6 +28,9 @@ jobs:
         run: |
           ./hack/scripts/ci/setup-github-actions.sh
 
+      - name: Create incus config directory
+        run: mkdir -p /home/runner/.config/incus
+
       - name: Setup infrastructure
         run: |
           ./hack/scripts/ci/setup-ovn-localhost.sh

@@ -58,7 +58,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | Contributor | Commits |
 |---|---|
 | [@neoaggelos](https://github.com/neoaggelos) | 361 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 7 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 8 |
 | [@HomayoonAlimohammadi](https://github.com/HomayoonAlimohammadi) | 1 |
 | [@johnae](https://github.com/johnae) | 1 |
 | [@xlmnxp](https://github.com/xlmnxp) | 1 |
